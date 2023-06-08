@@ -1,0 +1,16 @@
+d5fd44215eef00756a68e94999a0527d
+
+Individual: 
+'https://api.themoviedb.org/3/movie/movie_id?language=en-US'
+
+Now Playing:
+'https://api.themoviedb.org/3/movie/now_playing?language=en-US&page=1'
+
+Popular: 
+'https://api.themoviedb.org/3/movie/popular?language=en-US&page=1'
+
+Upcoming: 
+'https://api.themoviedb.org/3/movie/upcoming?language=en-US&page=1'
+
+Search: 
+'https://api.themoviedb.org/3/search/movie?query=avatar&include_adult=false&language=en-US&page=1'
